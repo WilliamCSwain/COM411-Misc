@@ -7,8 +7,8 @@ is_breeze = input().lower() # The .lower() part reads what the user typed and pu
 
 if is_sunny == "yes":
     if is_breeze == "yes":
-        print("Clothes are dry") # if_sunny = yes, if_breeze = yes
+        print("Clothes are dry") # [R] if_sunny = yes, if_breeze = yes
     else:
-        print("Clothes are drying slowly") # if_sunny = yes, if_breeze = no
+        print("Clothes are drying slowly") # [R] if_sunny = yes, if_breeze = no
 else:
-    print("Clothes are not drying") # if_sunny = no, if_breeze = no
+    print("Clothes are not drying") # [R] if_sunny = no, if_breeze = no
