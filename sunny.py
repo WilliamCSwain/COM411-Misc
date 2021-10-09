@@ -1,4 +1,4 @@
-# Asking the user whether it is sunny.
+# Asking the user whether it is sunny
 print("Is it sunny?")
 is_sunny = input()
 

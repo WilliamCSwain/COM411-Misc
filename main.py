@@ -1,7 +1,7 @@
 # Print asks the user for their age
 print("Please enter your age.")
 
-# The user's response is read (Integer value due to numerical value)
+# The user's response is read (Integer value due to numerical value.)
 age = int(input())
 
 # Check if the user is an adult (18+)
